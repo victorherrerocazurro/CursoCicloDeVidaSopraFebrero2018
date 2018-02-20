@@ -1,0 +1,15 @@
+.metadata/
+.recommenders/
+Servers/
+RemoteSystemsTempFiles/
+.settings/
+.classpath
+.project
+target/
+build/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.springBeans 
