@@ -1,4 +1,4 @@
-package com.curso.maven.holamundo;
+package com.curso.maven.arquetipo.holamundo;
 
 import static org.junit.Assert.*;
 
